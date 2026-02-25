@@ -1,8 +1,0 @@
-# Arquivos compilados
-*.o
-*.out
-*.exe
-
-# Binários
-/bin/
-/build/
